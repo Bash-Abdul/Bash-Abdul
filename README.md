@@ -18,7 +18,7 @@ I care about pixel perfect UI, sensible architecture and writing code that is st
   `Node.js` `Express` `REST APIs` `PostgreSQL` `Prisma` `MongoDB` `Firebase`
 
 - **Tools and Workflow**  
-  ''Git' `GitHub` `Figma` `VS Code` `Vercel` `Netlify`  
+  `Git` `GitHub` `Figma` `VS Code` `Vercel` `Netlify`  
   `Agile / ticket based workflow` `Debugging` `Basic TDD mindset`
 
 - **Currently learning**  
