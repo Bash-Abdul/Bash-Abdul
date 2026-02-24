@@ -6,6 +6,11 @@ I care about pixel perfect UI, sensible architecture and writing code that is st
 
 ---
 
+## 🫨 About me
+- 
+
+---
+
 ## 🔧 Tech I use
 
 - **Languages**  
@@ -21,10 +26,11 @@ I care about pixel perfect UI, sensible architecture and writing code that is st
   `Git` `GitHub` `Figma` `VS Code` `Vercel` `Netlify`  
   `Agile / ticket based workflow` `Debugging` `Basic TDD mindset`
 
-- **Currently learning**  
+- **Currently learning**
+  Backend Development Deepdive
+  System design and architecture
   Headless CMS, Sanity and Contentful  
-  Better testing, accessibility and performance patterns  
-  More real world front end architecture, not just tutorial setups
+  Better testing, accessibility and performance patterns
 
 ---
 
@@ -40,6 +46,13 @@ I care about pixel perfect UI, sensible architecture and writing code that is st
 ---
 
 ## 🚀 Selected projects
+
+---
+
+## 📝 Blogs
+
+- Hashnode, https://bash-abdul.hashnode.dev/
+- Medium, https://medium.com/@Bash-Abdul
 
 ---
 
