@@ -1,4 +1,4 @@
-## Hi there,  I am Bashir 👋
+## Hi there 👋,  I am Bashir 
 
 Front Focused Software Developer based in **London**, focused on building clean, responsive, real-world web applications with **React**, **TypeScript** and **Next.js**.
 
