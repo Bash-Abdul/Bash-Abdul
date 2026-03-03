@@ -1,8 +1,6 @@
 ## Hi there,  I am Bashir 👋
 
-Junior Front End Developer and Software Engineer based in **London**, focused on building clean, responsive, real-world web applications with **React**, **TypeScript** and **Next.js**.
-
-I care about pixel perfect UI, sensible architecture and writing code that is still easy to reason about six months later. Most of my work lives in that space between design and engineering, turning Figma files, product ideas and business requirements into production ready interfaces.
+Front Focused Software Developer based in **London**, focused on building clean, responsive, real-world web applications with **React**, **TypeScript** and **Next.js**.
 
 ---
 
